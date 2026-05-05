@@ -38,7 +38,6 @@ This project is a desktop-based inventory management and business intelligence s
 ## ▶️ How to Run
 
 ### Backend
-```bash
 cd backend
 python -m venv .venv
 .\.venv\Scripts\activate
