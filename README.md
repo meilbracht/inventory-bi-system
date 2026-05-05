@@ -3,6 +3,17 @@
 ## 📌 Overview
 This project is a desktop-based inventory management and business intelligence system designed to track, manage, and analyze supply data in real time. It provides a user-friendly interface combined with backend APIs to support inventory operations and reporting.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Inventory
+![Inventory](images/inventory.png)
+
+### Reports
+![Reports](images/reports.png)
+
 ---
 
 ## 🚀 Features
