@@ -44,3 +44,10 @@ python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+### Desktop
+cd desktop
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
